@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=NamesPoints
+comment1.target=Scoreboard(java.lang.String)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Scoreboard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=playerName\ score
+comment2.target=void\ addScore(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ loadScores()
+comment4.params=
+comment4.target=void\ saveScores()
+comment5.params=
+comment5.target=void\ showScores()
+comment6.params=playerName
+comment6.target=boolean\ isValidPlayerName(java.lang.String)
+comment7.params=score
+comment7.target=boolean\ isValidScore(int)
+comment8.params=
+comment8.target=void\ act()
+numComments=9
